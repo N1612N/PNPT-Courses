@@ -59,7 +59,7 @@ Meterpreter>>
 meterpreter>>
 >> shell
 >> systeminfo
-# Copy the systeminfo of victim mahine and save it ina text file to feed it to exploit suggester later.
+# Copy the systeminfo of victim mahine and save it in a text file to feed it to exploit suggester later.
 
 
 # Clone the repository from github to local machine<attacker machine>
